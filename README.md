@@ -4,5 +4,4 @@
 26/7/2020
 
 use pycharm git with mac
-
-this message edit by web
+need to push to origin from local
